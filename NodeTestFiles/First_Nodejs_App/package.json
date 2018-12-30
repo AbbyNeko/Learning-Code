@@ -1,0 +1,12 @@
+{
+  "name": "node_hero_tut1",
+  "version": "1.0.0",
+  "description": "Tutorial to create first Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "abigail.limpioso@emergetech.com",
+  "license": "ISC"
+}

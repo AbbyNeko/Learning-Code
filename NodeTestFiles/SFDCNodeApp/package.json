@@ -1,0 +1,15 @@
+{
+  "name": "sfdc_connection",
+  "version": "1.0.0",
+  "description": "Connects to Salesforce API to create lead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "abigail.limpioso@emergetech.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-salesforce-connection": "^2.3.0"
+  }
+}
